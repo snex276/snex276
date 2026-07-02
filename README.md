@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm a Software Engineering Undergraduate
 
-<!--
-**snex276/snex276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am an aspiring Software Developer passionate about building real-world web and mobile applications. I enjoy learning new technologies and improving my problem-solving skills through hands-on projects.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Android App Development (Java)
+- Web Development
+- UI/UX Design Basics
+- Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### 🌍 Let’sGo – Tourism & Transport App
+A real-world tourism platform developed using Android (Java) and web technologies. It provides destination information and improves travel convenience through a user-friendly interface.
+
+## 🛠️ Tech Stack
+- Java  
+- Android Development  
+- HTML, CSS, JavaScript  
+- Web Hosting Basics  
+- Git & GitHub  
+
+## 🎯 Goals
+Seeking an internship opportunity to gain industry experience and grow as a professional software developer.
+
+## 📫 Connect with Me
+- LinkedIn: (add your link here)
+- GitHub: https://github.com/snex276
