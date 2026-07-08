@@ -85,4 +85,4 @@ Currently seeking an internship opportunity where I can apply my software develo
 
 💻 GitHub: https://github.com/snex276
 
-🌐 Portfolio: https://snex276.github.io/portfolio/
+🌐 Portfolio: [https://snex276.github.io/portfolio/](https://snex276.github.io/portfolio-/)
